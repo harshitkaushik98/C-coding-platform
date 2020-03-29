@@ -1,0 +1,11 @@
+void sample()
+{
+if(sum==26)
+{
+cout<<"TEST CASE 1 PASSED !! "<<endl;
+}
+else
+{
+cout<<"TEST CASE 1 FAILED !! "<<endl;
+}
+}
